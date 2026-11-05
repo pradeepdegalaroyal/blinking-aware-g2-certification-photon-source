@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Blinking-Aware Certification of g2(0) for Pulsed Single-Photon Sources"
+type: software
+authors:
+  - family-names: "Degala"
+    given-names: "Chenchupradeep"
+repository-code: "https://github.com/pradeepdegalaroyal/blinking-aware-g2-certification-photon-source"
+version: "0.1.0"
+date-released: "2026-11-05"
+license: MIT
+keywords:
+  - single-photon sources
+  - photon correlation
+  - quantum dots
+  - statistical estimation
