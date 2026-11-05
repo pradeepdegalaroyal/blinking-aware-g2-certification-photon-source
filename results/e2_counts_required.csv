@@ -1,0 +1,10 @@
+blink,estimator,mean,std,count
+heavy,envelope,3200.0,0.0,5
+heavy,naive_all,800.0,0.0,5
+heavy,naive_far,1600.0,0.0,5
+moderate,envelope,6400.0,0.0,5
+moderate,naive_all,12800.0,0.0,4
+moderate,naive_far,,,0
+none,envelope,12800.0,0.0,4
+none,naive_all,12800.0,0.0,3
+none,naive_far,12800.0,0.0,3
